@@ -1,0 +1,220 @@
+header {
+	
+	background:orange;
+	height:60px;
+	
+	
+}
+
+header ul li {
+	
+	float:left;
+	font-size:20px;
+}
+
+header ul {
+	position:absolute;
+	left:350px;
+	
+	
+}
+
+header ul li a {
+	
+	padding:15px;
+	display:block;
+	color:white;	
+}
+
+header ul li a:hover{
+	
+	text-decoration:none;
+	color:black;
+	background: yellow;
+}
+
+.logo img {
+	
+	float:left;
+	background:orange;
+	
+}
+.genel {
+	width:1300px;
+	margin:auto;
+	
+}
+.urunler {
+	height:300px;
+	background:white;
+	margin-top:20px;
+	
+	
+}
+.urun  {
+    height:250px;
+	width:650px;
+	text-align:center;
+	padding:10px;
+	background:orange;
+	float:left;
+	
+	
+	
+}
+.iletisim {
+	width:1300px;
+	height:450px;
+	background:orange;
+    margin:auto;
+
+
+
+}
+.sosyal {
+	
+	float:right; 
+	position:absolute;
+	right:24px;
+	width:400px;
+	height:100px;
+	background:orange;
+	margin-top:0.50px;
+	
+	
+}
+.sosyal h2 {
+	
+	
+	font-size:19px;
+	font-weight:bold;
+	padding:10px;
+	color:white;
+	border-bottom:2px solid  #ddd;
+	
+}
+
+
+
+.adres {
+    
+	background:orange;
+	width:360px;
+	height:0px;
+	
+	color:black;
+	
+}
+.icerikler {
+	height:600px;
+	background:grey;
+	
+	
+}
+.baslik {
+	
+	width:1080px;
+	background: #FDC830;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+margin:auto;
+text-align:center;
+height:85px;
+padding:10px;	
+}
+.baslik h2 {
+	font-size:25px;
+	font-weight:bold;
+	padding:5px;
+	
+	
+}
+.baslik span {
+	font-size:18px;
+	
+	
+	
+}
+.aciklama{
+	background:orange;
+	height:400px;
+	margin-top:20px;
+	width:1060px;
+	position:relative;
+	top:20px;
+	padding:20px;
+	
+}
+.Aciklama {
+	height:500px;
+	background:orange;
+	text-align:left;
+	
+	
+	
+	
+}
+.Baslik  {
+	
+	background: #FDC830;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align:center;
+padding:10px;	
+	
+	
+}
+.Baslik h2 {
+	
+	font-size:25px;
+	font-weight:bold;
+	padding:5px;
+	
+	text-align:center;
+	
+}
+.Reklampanosu {
+	
+	height:500px;
+	background:white;
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
